@@ -10,6 +10,8 @@ public class App
     {
         System.out.println( "Hello Ishrat! How Are your?" );
         System.out.println("Why do you ask?");
+        System.out.println( "Hello Muntaqim vai! How Are your?" );
+        System.out.println("Doing Greate");
 
     }
 }
